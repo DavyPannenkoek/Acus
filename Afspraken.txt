@@ -1,0 +1,74 @@
+Programmeer afspraken.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+Manier van programeren:
+
+Dit is correct
+if
+{
+
+}
+
+Dit niet 
+if {
+
+}
+
+als we commente in html openen  we met dit <!-- en eindigen we met dit --!> zoals hieronder
+<!-- Hallo ik ben davy --!>
+
+voor titels van functies in php openen  we met dit /* en eindigen we met dit */ zoals hieronder
+/* Hallo ik ben davy */
+
+Als we uitleg over de functie willen geven in het php bestand openen we met dit // zoals hieronder
+// Hallo ik ben davy
+
+-we werken met tabjes dus niet de spatie te veel gebruiken.
+-variablen schrijven we zo : $Leraar of $DavyCool dus geen spaties of verlengtekens.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+Functies to make
+
+Inloggen: DAVY
+
+er moet een login scherm komen waar je 3 keer de kans krijgt om in te loggen, na de derde keer kan je niet meer inloggen en krijg je een foutmelding.
+zodra je bent ingelogd moet je gebruikersnaam rechtbovenin het scherm komen te staan en rechts daarvan een sub menu met de optie om kopjes toetevoegen en verwijderen en uitteloggen,
+ook als je bent ingelogd komt er een groene knop met een plusje erop onder de rest van deiconen. 
+
+Uitloggen: DAVY
+
+Bij het sub-menu staat er ook een optie "Uitloggen".
+Dit moet je dan uitloggen uit het programma.
+
+Sub-Menu: SANDER
+
+Je moet als je ingelogd bent een sub menu zien met 3 opties: "Kopjes Aanpassen", "Kopjes Verwijderen" en "Uitloggen".
+Dit sub-menu moet staan zoals in de design.
+
+Kopjes openen met een pop up: SANDER
+
+als je op een knop drukt moet er een pop up komen met daarin informatie uit de sql database de popup moet je weer kunnen sluiten 
+
+Kopjes toevoegen: JIMMY / ROEL
+
+als je op de groene plus knop klikt krijg je een popup met daarin de optie om een andere knop aan het start scherm toetevoegen.
+die kan je een display naam en icoontje en inhoud geven 
+
+Kopjes aanpassen: JIMMY / ROEL
+
+Als je bij het sub-menu op Kopje aanpassen klikt moet je het muis icoon laten veranderen. 
+Als je dan op een kopje klikt dan zou je bepaalde informatie erin moeten aanpassen.
+ 
+Kopjes Verwijderen: JIMMY / ROEL
+
+Als je bij het sub-menu op Kopje aanpassen klikt moet je het muis icoon laten veranderen. 
+Als je dan op een kopje klikt dan zou je bepaalde informatie erin moeten aanpassen.
+
+
+
